@@ -29,20 +29,8 @@ Sou uma desenvolvedora especializada em **sistemas embarcados**, com forte exper
 
 ---
 
-## 📊 **Estatísticas do GitHub**  
-![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=dracula&hide_border=true&langs_count=6&hide=assembly,makefile)
-
----
-
-## � **Projetos Destacados**  
-1. **[Firmware para ESP32](link)** – Controle de dispositivos IoT com FreeRTOS  
-2. **[Dashboard de Monitoramento](link)** – Interface React para dados de sensores  
-3. **[Driver para STM32](link)** – Comunicação via protocolo customizado  
-
 ---
 
 ## 📫 **Contato**  
-- 🔗 [LinkedIn](https://linkedin.com/in/seu-linkedin)  
-- 🌐 [Portfólio](https://seuportfolio.com)  
-- 📧 seuemail@exemplo.com  
+- 🔗 [LinkedIn]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/maely-lira-b71636346/))  
+- 📧 liramaely5@gmail.com 
