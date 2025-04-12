@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋  
+# Olá, sou a Maely! 👋  
 **Desenvolvedora Embarcados | C/C++ | JavaScript & Web**
 
 ## 🚀 Sobre Mim  
