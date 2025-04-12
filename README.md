@@ -2,7 +2,7 @@
 **Desenvolvedora Embarcados | C/C++ | JavaScript & Web**
 
 ## 🚀 Sobre Mim  
-Sou uma desenvolvedora especializada em **sistemas embarcados**, com forte experiência em **C/C++** para firmware, microcontroladores e IoT. Também atuo no desenvolvimento web (JavaScript/React) para interfaces de controle. Apaixonada por eletrônica, baixo nível e soluções eficientes!
+Full Stack Developer | HTML5 | CSS3 | JavaScript | React | Node.js | Sistemas Embarcados| Circuitos Integrados| Arduino| Beaglebone| SQL | TypeScript | GIT
 
 ---
 
